@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hive Macro Pro</string>
+    <string name="accessibility_description">Dịch vụ gửi cử chỉ joystick theo yêu cầu người dùng khi bật macro. Không tự đọc màn hình hoặc nhận diện nhiệm vụ trong bản thử nghiệm.</string>
+</resources>
